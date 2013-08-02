@@ -1,0 +1,14 @@
+{
+    "name": "yii-image-extension",
+    "description": "One simple image extension for Yii framework",
+    "author": "Paco Fernández-Nogueira",
+    "contributors": [
+        {
+            "name": "Paco Fernández-Nogueira"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/garyburge/yii-image-extension.git"
+    },
+}

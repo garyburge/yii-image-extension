@@ -1,0 +1,17 @@
+{
+    "name": "garyburge/yii-image-extension",
+    "description": "One simple image extension for Yii framework",
+    "keywords": ["yii", "extension"],
+    "homepage": "https://github.com/garyburge/yii-image-extension",
+    "type": "yii-extension",
+    "license": "GNU Lesser General Public License",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Paco Fernández-Nogueira"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
